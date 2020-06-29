@@ -160,7 +160,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 [issues-shield]: https://img.shields.io/github/issues/animikhaich/VTU-Result-Downloader.svg?style=flat-square
 [issues-url]: https://github.com/animikhaich/VTU-Result-Downloader/issues
 [license-shield]: https://img.shields.io/github/license/animikhaich/VTU-Result-Downloader.svg?style=flat-square
-[license-url]: https://github.com/animikhaich/VTU-Result-Downloader/blob/master/LICENSE.md
+[license-url]: https://github.com/animikhaich/VTU-Result-Downloader/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/animikh-aich/
 [product-screenshot]: Assets/Screenshot-Linux-Dark.png
