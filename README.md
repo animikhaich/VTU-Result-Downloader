@@ -14,13 +14,11 @@
   <p align="center">
     A web-scraping program to automatically download VTU University Results for specified USN numbers.
     <br />
-    <a href="https://github.com/animikhaich/Timelapse-Creator#demo">View Demo</a>
+    <a href="https://youtu.be/sTswDfqWowg">View Demo</a>
     ·
-    <a href="https://github.com/animikhaich/Timelapse-Creator/releases/latest">Download</a>
+    <a href="https://github.com/animikhaich/VTU-Result-Downloader/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/animikhaich/Timelapse-Creator/issues/new">Report Bug</a>
-    ·
-    <a href="https://github.com/animikhaich/Timelapse-Creator/issues/new">Request Feature</a>
+    <a href="https://github.com/animikhaich/VTU-Result-Downloader/issues/new">Request Feature</a>
   </p>
 </p>
 
