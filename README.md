@@ -163,4 +163,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 [license-url]: https://github.com/animikhaich/VTU-Result-Downloader/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/animikh-aich/
-[product-screenshot]: Assets/Screenshot-Linux-Dark.png
+[product-screenshot]: Assets/merged_screenshot.jpg
