@@ -9,7 +9,7 @@
 <p align="center">
     <img src="Assets/icon_document.png" alt="Logo" width="150" height="150">
 
-  <h2 align="center">Video Time Lapse Creator</h2>
+  <h2 align="center">VTU Result Downloader</h2>
 
   <p align="center">
     A web-scraping program to automatically download VTU University Results for specified USN numbers.
