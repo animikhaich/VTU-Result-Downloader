@@ -87,7 +87,7 @@ I wanted to reduce the file-size for this simple project. Hence, I used Tkinter 
 1. Clone the repo
 
 ```sh
-git clone https://github.com/animikhaich/Timelapse-Creator.git
+git clone https://github.com/animikhaich/VTU-Result-Downloader.git
 ```
 
 2. Install Python packages
